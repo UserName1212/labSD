@@ -43,6 +43,8 @@
  */
 
 #include <iostream>
+#include "rect.hpp"
+
 
 int main()
 {
